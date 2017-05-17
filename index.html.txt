@@ -1,7 +1,7 @@
 <html>
 	<body>
-	<HEAD>GIT</head>
-
-	Git
+	<header>
+		<h1>GIT</h1>
+	</header>
 	</body>
 </html>
