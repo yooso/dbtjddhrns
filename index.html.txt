@@ -1,6 +1,6 @@
 <html>
 	<title>
-		Git 소개
+		Git 소개 테스트
 	</title>
 	<head></head>
 	<body>
