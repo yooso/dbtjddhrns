@@ -1,8 +1,10 @@
 <html>
+	<head>
+	<meta charset ="UTF-8" />
 	<title>
 		Git ¼Ò°³
 	</title>
-	<head></head>
+	</head>
 	<body>
 	<header>
 		<h1>GIT</h1>
