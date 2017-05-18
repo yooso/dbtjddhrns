@@ -2,6 +2,7 @@
 	<title>
 		Git 소개 병합 후 마스터
 		병합 후 작업 1 마스터
+		병합 후 작업 2 마스터
 	</title>
 	<head></head>
 	<body>
