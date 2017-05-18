@@ -1,6 +1,6 @@
 <html>
 	<title>
-		Git 소개 뭐냐이거
+		Git 소개 병합 후 마스터
 	</title>
 	<head></head>
 	<body>
