@@ -2,6 +2,7 @@
 	<title>
 		Git 소개 병합 후 테스트
 		병합 후 작업 1 테스트
+		병합 후 작업 2 테스트
 	</title>
 	<head></head>
 	<body>
