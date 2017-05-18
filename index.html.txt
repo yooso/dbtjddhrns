@@ -1,6 +1,6 @@
 <html>
 	<title>
-		Git 소개
+		Git 소개 뭐냐이거
 	</title>
 	<head></head>
 	<body>
