@@ -1,6 +1,6 @@
 <html>
 	<title>
-		Git 소개 테스트
+		Git 소개 테스트 다른것과 병합용
 	</title>
 	<head></head>
 	<body>
